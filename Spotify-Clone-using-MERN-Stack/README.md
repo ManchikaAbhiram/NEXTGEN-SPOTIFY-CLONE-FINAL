@@ -133,13 +133,3 @@ secretOrKey= Your_Secret_Key_Here
 cloudinary_cloudName= Your_Cloudinary_CloudName_Here
 cloudinary_upload_preset= Your_Cloudinary_Upload_Preset_Here
 ```
-
-
-## Additional Information
-
-- **Reference Playlist:** [YouTube Playlist](https://www.youtube.com/playlist?list=PLY7exrvAQSeuh1_V-b4Sj-4Fhe03noob1)
-
-
----
-
-
